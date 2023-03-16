@@ -1,4 +1,4 @@
-package com.hillel.restorans.entity;
+package com.hillel.restaurants.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;
@@ -9,7 +9,7 @@ import java.math.BigDecimal;
 @Data
 @Entity
 @NoArgsConstructor
-public class Restouran {
+public class Restaurant {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

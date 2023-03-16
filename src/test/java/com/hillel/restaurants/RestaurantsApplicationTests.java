@@ -1,10 +1,10 @@
-package com.hillel.restorans;
+package com.hillel.restaurants;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RestoransApplicationTests {
+class RestaurantsApplicationTests {
 
     @Test
     void contextLoads() {

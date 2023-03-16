@@ -1,4 +1,4 @@
-package com.hillel.restorans.exceptions;
+package com.hillel.restaurants.exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

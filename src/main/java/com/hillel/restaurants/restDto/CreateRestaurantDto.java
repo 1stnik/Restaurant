@@ -1,11 +1,11 @@
-package com.hillel.restorans.restDto;
+package com.hillel.restaurants.restDto;
 
 import lombok.Data;
 
 import java.math.BigDecimal;
 
 @Data
-public class CreateRestouranDto {
+public class CreateRestaurantDto {
 
     private String name;
 

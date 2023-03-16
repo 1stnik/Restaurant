@@ -1,4 +1,4 @@
-package com.hillel.restorans.controller;
+package com.hillel.restaurants.controller;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

@@ -1,13 +1,13 @@
-package com.hillel.restorans;
+package com.hillel.restaurants;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RestoransApplication {
+public class RestaurantsApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(RestoransApplication.class, args);
+        SpringApplication.run(RestaurantsApplication.class, args);
     }
 
 }
